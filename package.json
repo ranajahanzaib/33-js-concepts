@@ -54,8 +54,8 @@
     "interview-preparation"
   ],
   "devDependencies": {
-    "@vitest/coverage-v8": "^4.0.16",
+    "@vitest/coverage-v8": "^4.1.8",
     "jsdom": "^27.4.0",
-    "vitest": "^4.0.16"
+    "vitest": "^4.1.8"
   }
 }
